@@ -1,0 +1,30 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    background color:color: ;
+}
+.resume{
+    padding : 0px 10%;
+}
+.mainDiv{
+    background-color: #ce7fb6;
+    
+}
+.mainDiv h3{
+    padding:5px;
+
+}
+.leftdiv{
+    float: left;
+}
+.rightdiv{
+    float: right;
+}
+    .mainContent h2{
+        clear: both;
+    background-color: burlywood;
+    border-bottom: 1px solid #ccc;
+
+    }
+
+
